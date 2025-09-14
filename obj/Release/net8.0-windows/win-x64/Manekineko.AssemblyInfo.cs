@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manekineko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08eb872e0d495c1fe7c50220eeb79060fca0f772")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aad63e60603f58d810353c130759cd0313024a2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manekineko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manekineko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
