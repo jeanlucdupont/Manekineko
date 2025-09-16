@@ -17,3 +17,5 @@ You need SDK 8
 ```
 winget install Microsoft.DotNet.SDK.8
 ```
+
+Get the EXE here: https://github.com/jeanlucdupont/Manekineko/blob/main/bin/Release/net8.0-windows/win-x64/publish/Manekineko.exe
