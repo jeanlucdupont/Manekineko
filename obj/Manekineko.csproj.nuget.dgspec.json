@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp\\Manekineko\\Manekineko.csproj": {}
+    "c:\\tmp\\Manekineko\\Manekineko.csproj": {}
   },
   "projects": {
-    "C:\\tmp\\Manekineko\\Manekineko.csproj": {
+    "c:\\tmp\\Manekineko\\Manekineko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\Manekineko\\Manekineko.csproj",
+        "projectUniqueName": "c:\\tmp\\Manekineko\\Manekineko.csproj",
         "projectName": "Manekineko",
-        "projectPath": "C:\\tmp\\Manekineko\\Manekineko.csproj",
+        "projectPath": "c:\\tmp\\Manekineko\\Manekineko.csproj",
         "packagesPath": "C:\\Users\\jl-du\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\Manekineko\\obj\\",
+        "outputPath": "c:\\tmp\\Manekineko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,10 +68,6 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.20, 8.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
               "version": "[8.0.20, 8.0.20]"
             },
             {

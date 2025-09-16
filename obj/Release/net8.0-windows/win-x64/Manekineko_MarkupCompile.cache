@@ -4,12 +4,12 @@
 winexe
 C#
 .cs
-C:\tmp\Manekineko\obj\Release\net8.0-windows\win-x64\
+c:\tmp\Manekineko\obj\Release\net8.0-windows\win-x64\
 Manekineko
 none
 false
 TRACE;RELEASE;NET;NET8_0;NETCOREAPP
-C:\tmp\Manekineko\App.xaml
+c:\tmp\Manekineko\App.xaml
 11407045341
 
 31376549233
